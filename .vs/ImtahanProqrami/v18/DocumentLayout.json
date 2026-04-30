@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ikinci.el.noutbuklar\\Desktop\\Prosys\\ImtahanProqrami\\ImtahanProqrami\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FDC9ED2-8854-0A68-7480-B3E1155F73A1}|backend\\ImtahanApi.csproj|c:\\users\\ikinci.el.noutbuklar\\desktop\\prosys\\imtahanproqrami\\imtahanproqrami\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6FDC9ED2-8854-0A68-7480-B3E1155F73A1}|backend\\ImtahanApi.csproj|solutionrelative:backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ikinci.el.noutbuklar\\Desktop\\Prosys\\ImtahanProqrami\\ImtahanProqrami\\backend\\appsettings.json",
+              "RelativeDocumentMoniker": "backend\\appsettings.json",
+              "ToolTip": "C:\\Users\\ikinci.el.noutbuklar\\Desktop\\Prosys\\ImtahanProqrami\\ImtahanProqrami\\backend\\appsettings.json",
+              "RelativeToolTip": "backend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-30T15:14:07.445Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
